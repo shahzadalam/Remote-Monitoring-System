@@ -1,0 +1,712 @@
+Nov  8 23:09:37 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 2001:418:3ff::53
+Nov  8 23:09:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.297816] wlp2s0: authenticate with 1c:b9:c4:54:33:68
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.311354] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:09:49 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626789.2393] device (wlp2s0): supplicant interface state: completed -> authenticating
+Nov  8 23:09:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343721] cfg80211: World regulatory domain updated:
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343724] cfg80211:  DFS Master region: unset
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343726] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_ti
+me)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343729] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343731] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343732] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343735] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343737] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343739] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343740] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.343742] cfg80211:   (
+57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.363559] wlp2s0: authenticated
+Nov  8 23:09:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:09:49 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626789.2967] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.367686] wlp2s0: associate with 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:09:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 1c:b9:c4:54:33:68
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.433892] wlp2s0: RX AssocResp from 1c:b9:c4:54:33:68 (capab=0x431 status=0 aid=18)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.434018] wlp2s0: associated
+Nov  8 23:09:49 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626789.3687] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 23:09:49 arpit-VPCEG15EN wp
+a_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466387] ath: EEPROM regdomain: 0x8164
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466391] ath: EEPROM indicates we should expect a country code
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466392] ath: doing EEPROM country->regdmn map search
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466393] ath: country maps to regdmn code: 0x5b
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466395] ath: Country alpha2 being used: IN
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466396] ath: Regpair used: 0x5b
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466398] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466425] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466426] cfg80211:  DFS Master region: JP
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466428] cfg80211:   (sta
+rt_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466430] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466433] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466435] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:09:49 arpit-VPCEG15EN kernel: [  377.466437] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:09:50 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 1c:b9:c4:54:33:68 [PTK=CCMP GTK=CCMP]
+Nov  8 23:09:50 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 1c:b9:c4:54:33:68 completed [id=0 id_str=]
+Nov  8 23:09:50 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626790.3975] device (wlp2s0): supplicant inter
+face state: 4-way handshake -> completed
+Nov  8 23:10:08 arpit-VPCEG15EN anacron[795]: Job `cron.daily' terminated
+Nov  8 23:10:08 arpit-VPCEG15EN anacron[795]: Normal exit (1 job run)
+Nov  8 23:10:41 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 2400:8500:1301:813:a157:7:235:920
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.374490] wlp2s0: authenticate with 38:ff:36:48:d6:f8
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.388213] wlp2s0: send auth to 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:11:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626892.3221] device (wlp2s0): supplicant interface state: completed -> authenticating
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.389800] wlp2s0: authenticated
+Nov  8 23:11:32 arpit-VPCE
+G15EN NetworkManager[807]: <info>  [1478626892.3264] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.392954] wlp2s0: associate with 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 38:ff:36:48:d6:f8
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.396994] wlp2s0: RX AssocResp from 38:ff:36:48:d6:f8 (capab=0x31 status=0 aid=19)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.397096] wlp2s0: associated
+Nov  8 23:11:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478626892.3361] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 38:ff:36:48:d6:f8 [PTK=CCMP GTK=CCMP]
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 38:ff:36:48:d6:f8 completed [id=0 id_str=]
+Nov  8 23:11:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [
+1478626892.3434] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431596] cfg80211: World regulatory domain updated:
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431600] cfg80211:  DFS Master region: unset
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431602] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431605] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431607] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431609] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431612] cfg80211:   (5170000 KHz - 5250000 KHz @
+ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431614] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431617] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431619] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.431621] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN systemd-udevd[2637]: Process '/sbin/crda' failed with exit code 249.
+Nov  8 23:11:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494259] ath: EEPROM regdomain: 0x8164
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494263] ath: EEPROM indicates we should expect a country code
+Nov  8 2
+3:11:32 arpit-VPCEG15EN kernel: [  480.494264] ath: doing EEPROM country->regdmn map search
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494266] ath: country maps to regdmn code: 0x5b
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494267] ath: Country alpha2 being used: IN
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494268] ath: Regpair used: 0x5b
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494270] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494298] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494300] cfg80211:  DFS Master region: JP
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494301] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494304] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494306] cfg80211:   (5170000 KHz - 52
+50000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494308] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:11:32 arpit-VPCEG15EN kernel: [  480.494310] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:12:00 arpit-VPCEG15EN systemd[1470]: Time has been changed
+Nov  8 23:12:00 arpit-VPCEG15EN systemd[1]: Time has been changed
+Nov  8 23:12:00 arpit-VPCEG15EN systemd[1]: apt-daily.timer: Adding 6h 9min 11.556824s random time.
+Nov  8 23:13:28 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:13:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.296587] wlp2s0: authenticate with 1c:b9:c4:54:33:68
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.310267] wlp2s0: send auth to 1c:b
+9:c4:54:33:68 (try 1/3)
+Nov  8 23:13:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627011.5724] device (wlp2s0): supplicant interface state: completed -> authenticating
+Nov  8 23:13:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.315422] wlp2s0: authenticated
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.317920] wlp2s0: associate with 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:13:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627011.5797] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:13:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 1c:b9:c4:54:33:68
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.323799] wlp2s0: RX AssocResp from 1c:b9:c4:54:33:68 (capab=0x431 status=0 aid=5)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.323922] wlp2s0: associated
+Nov  8 23:13:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627011.5899]
+ device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349675] cfg80211: World regulatory domain updated:
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349679] cfg80211:  DFS Master region: unset
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349680] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349683] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349685] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349687] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349689] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349691] cfg80211:   (
+5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349693] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349695] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.349697] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:13:31 arpit-VPCEG15EN systemd-udevd[2696]: Process '/sbin/crda' failed with exit code 249.
+Nov  8 23:13:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409881] ath: EEPROM regdomain: 0x8164
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409884] ath: EEPROM indicates we should expect a country code
+Nov  8 23:13:31 arpit-
+VPCEG15EN kernel: [  600.409886] ath: doing EEPROM country->regdmn map search
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409887] ath: country maps to regdmn code: 0x5b
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409889] ath: Country alpha2 being used: IN
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409890] ath: Regpair used: 0x5b
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409892] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409919] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409921] cfg80211:  DFS Master region: JP
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409923] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409925] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409928] cfg80211:   (5170000 KHz - 5250000 KHz @ 80
+000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409930] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:13:31 arpit-VPCEG15EN kernel: [  600.409932] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:13:31 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:13:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 1c:b9:c4:54:33:68 [PTK=CCMP GTK=CCMP]
+Nov  8 23:13:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 1c:b9:c4:54:33:68 completed [id=0 id_str=]
+Nov  8 23:13:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627012.5947] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:13:37 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:15:10 arpi
+t-VPCEG15EN dhclient[1598]: message repeated 9 times: [ DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)]
+Nov  8 23:15:11 arpit-VPCEG15EN systemd[1]: Started Session 1 of user arpit.
+Nov  8 23:15:27 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:16:47 arpit-VPCEG15EN dhclient[1598]: message repeated 7 times: [ DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)]
+Nov  8 23:17:01 arpit-VPCEG15EN CRON[2809]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Nov  8 23:17:01 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:17:31 arpit-VPCEG15EN dhclient[1598]: message repeated 3 times: [ DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)]
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:17:31 a
+rpit-VPCEG15EN kernel: [  840.331222] wlp2s0: authenticate with 38:ff:36:48:d6:f8
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.344982] wlp2s0: send auth to 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:17:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627251.6156] device (wlp2s0): supplicant interface state: completed -> authenticating
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.346523] wlp2s0: authenticated
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.352321] wlp2s0: associate with 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:17:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627251.6248] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391816] cfg80211: World regulatory domain updated:
+Nov  8 2
+3:17:31 arpit-VPCEG15EN kernel: [  840.391820] cfg80211:  DFS Master region: unset
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391822] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391825] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391828] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391830] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391833] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391836] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391838] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 
+KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391840] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.391842] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 38:ff:36:48:d6:f8
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.429388] wlp2s0: RX AssocResp from 38:ff:36:48:d6:f8 (capab=0x31 status=0 aid=19)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.429506] wlp2s0: associated
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 38:ff:36:48:d6:f8 [PTK=CCMP GTK=CCMP]
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 38:ff:36:48:d6:f8 completed [id=0 id_str=]
+Nov  8 23:17:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627251.7091] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov 
+ 8 23:17:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627251.7135] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:17:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478871] ath: EEPROM regdomain: 0x8164
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478876] ath: EEPROM indicates we should expect a country code
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478878] ath: doing EEPROM country->regdmn map search
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478880] ath: country maps to regdmn code: 0x5b
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478882] ath: Country alpha2 being used: IN
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478883] ath: Regpair used: 0x5b
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478886] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478918] cfg80211: Regulatory domain
+ changed to country: IN
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478920] cfg80211:  DFS Master region: JP
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478922] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478926] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478929] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478932] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:17:31 arpit-VPCEG15EN kernel: [  840.478934] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:17:52 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:18:33 arpit-VPCEG15EN dhclient[1598]: message repeated 3 times: [ DHCPRE
+QUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)]
+Nov  8 23:18:38 arpit-VPCEG15EN systemd[1]: Starting Cleanup of Temporary Directories...
+Nov  8 23:18:38 arpit-VPCEG15EN systemd-tmpfiles[2822]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Nov  8 23:18:38 arpit-VPCEG15EN systemd[1]: Started Cleanup of Temporary Directories.
+Nov  8 23:18:43 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:18:55 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:19:02 arpit-VPCEG15EN avahi-daemon[749]: Withdrawing address record for 10.50.5.124 on enp9s0.
+Nov  8 23:19:02 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627342.1570] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov  8 23:19:02 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627342.1574] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov  8 23:19:02 arpit-VPCEG
+15EN avahi-daemon[749]: Leaving mDNS multicast group on interface enp9s0.IPv4 with address 10.50.5.124.
+Nov  8 23:19:02 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627342.1577] policy: set 'NITK-NET' (wlp2s0) as default for IPv4 routing and DNS
+Nov  8 23:19:02 arpit-VPCEG15EN avahi-daemon[749]: Interface enp9s0.IPv4 no longer relevant for mDNS.
+Nov  8 23:19:03 arpit-VPCEG15EN ntpd[1185]: Deleting interface #3 enp9s0, 10.50.5.124#123, interface stats: received=52, sent=96, dropped=0, active_time=898 secs
+Nov  8 23:19:03 arpit-VPCEG15EN ntpd[1185]: 52.66.76.135 local addr 10.50.5.124 -> <null>
+Nov  8 23:19:03 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 10.50.5.124 -> <null>
+Nov  8 23:19:03 arpit-VPCEG15EN ntpd[1185]: 91.189.91.157 local addr 10.50.5.124 -> <null>
+Nov  8 23:19:03 arpit-VPCEG15EN ntpd[1185]: 123.108.200.124 local addr 10.50.5.124 -> <null>
+Nov  8 23:19:07 arpit-VPCEG15EN whoopsie[721]: [23:19:07] offline
+Nov  8 23:19:07 arpit-VPCEG15EN whoopsie[721]: [23:19:07] The default IPv4 ro
+ute is: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:19:07 arpit-VPCEG15EN whoopsie[721]: [23:19:07] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:19:07 arpit-VPCEG15EN whoopsie[721]: [23:19:07] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:19:07 arpit-VPCEG15EN whoopsie[721]: [23:19:07] online
+Nov  8 23:19:10 arpit-VPCEG15EN dhclient[1598]: DHCPREQUEST of 10.50.4.237 on wlp2s0 to 10.20.1.3 port 67 (xid=0x77dab57e)
+Nov  8 23:19:10 arpit-VPCEG15EN dhclient[1598]: DHCPACK of 10.50.4.237 from 10.20.1.3
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3981]   address 10.50.4.237
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3982]   plen 22 (255.255.252.0)
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3983]   gateway 10.50.4.1
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3983]   server identifier 10.20.1.3
+Nov  8 23:19
+:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3984]   lease time 900
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3985]   nameserver '10.3.0.101'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3985]   nameserver '10.20.1.21'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3986]   nameserver '10.20.1.22'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3987]   nameserver '4.2.2.2'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3987]   nameserver '8.8.8.8'
+Nov  8 23:19:10 arpit-VPCEG15EN dbus[751]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3988]   domain name 'nitk.ac.in'
+Nov  8 23:19:10 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627350.3988] dhcp4 (wlp2s0): state changed bound -> bound
+Nov  8 23:19:10 arpi
+t-VPCEG15EN systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov  8 23:19:10 arpit-VPCEG15EN dbus[751]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  8 23:19:10 arpit-VPCEG15EN systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov  8 23:19:10 arpit-VPCEG15EN nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: new request (2 scripts)
+Nov  8 23:19:10 arpit-VPCEG15EN nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Nov  8 23:19:10 arpit-VPCEG15EN dhclient[1598]: bound to 10.50.4.237 -- renewal in 365 seconds.
+Nov  8 23:19:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.288669] wlp2s0: authenticate with 1c:b9:c4:54:33:68
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.302485] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:19:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627371.5785] d
+evice (wlp2s0): supplicant interface state: completed -> authenticating
+Nov  8 23:19:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350324] cfg80211: World regulatory domain updated:
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350328] cfg80211:  DFS Master region: unset
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350330] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350332] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350334] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350336] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350338] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 
+KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350340] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350343] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350344] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.350346] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.407391] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 2/3)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.478162] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 3/3)
+Nov  8 23:19:31 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.482682] wlp2s0: authenticated
+Nov  8 23:19:31 arpit-VPCE
+G15EN kernel: [  960.485936] wlp2s0: associate with 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:19:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627371.7635] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.583748] wlp2s0: associate with 1c:b9:c4:54:33:68 (try 2/3)
+Nov  8 23:19:31 arpit-VPCEG15EN kernel: [  960.686497] wlp2s0: associate with 1c:b9:c4:54:33:68 (try 3/3)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  960.759596] wlp2s0: association with 1c:b9:c4:54:33:68 timed out
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.0576] device (wlp2s0): supplicant interface state: associating -> disconnected
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.1629] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: 
+wlp2s0: SME: Trying to authenticate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.111531] wlp2s0: authenticate with 38:ff:36:48:d6:f8
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.4057] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.130535] wlp2s0: send auth to 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 38:ff:36:48:d6:f8 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.233833] wlp2s0: send auth to 38:ff:36:48:d6:f8 (try 2/3)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.236310] wlp2s0: authenticated
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.237775] wlp2s0: associate with 38:ff:36:48:d6:f8 (try 1/3)
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.5167] device (wlp2s0): supplicant interface state: authenticating -> associating
+No
+v  8 23:19:32 arpit-VPCEG15EN kernel: [  961.324096] wlp2s0: associate with 38:ff:36:48:d6:f8 (try 2/3)
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 38:ff:36:48:d6:f8
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.327042] wlp2s0: RX AssocResp from 38:ff:36:48:d6:f8 (capab=0x31 status=0 aid=19)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.327169] wlp2s0: associated
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.6074] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 38:ff:36:48:d6:f8 [PTK=CCMP GTK=CCMP]
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 38:ff:36:48:d6:f8 completed [id=0 id_str=]
+Nov  8 23:19:32 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627372.6172] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:19:32 arpit-VPCEG15EN wpa_sup
+plicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379036] ath: EEPROM regdomain: 0x8164
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379040] ath: EEPROM indicates we should expect a country code
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379042] ath: doing EEPROM country->regdmn map search
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379044] ath: country maps to regdmn code: 0x5b
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379046] ath: Country alpha2 being used: IN
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379048] ath: Regpair used: 0x5b
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379050] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379082] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379084] cfg80211:  DFS Master region: JP
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379086] cfg80211:   (start_fr
+eq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379089] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379093] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379096] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:19:32 arpit-VPCEG15EN kernel: [  961.379098] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:20:18 arpit-VPCEG15EN kernel: [ 1007.657516] atl1c 0000:09:00.0: atl1c: enp9s0 NIC Link is Down
+Nov  8 23:20:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627418.9399] device (enp9s0): link disconnected (deferring action for 4 seconds)
+Nov  8 23:20:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627420.7533] device (enp9s0): link connected
+Nov  8 23:20:20 arpit-VPCEG15
+EN NetworkManager[807]: <info>  [1478627420.7536] device (enp9s0): DHCPv4 lease renewal requested
+Nov  8 23:20:20 arpit-VPCEG15EN kernel: [ 1009.471095] atl1c 0000:09:00.0: atl1c: enp9s0 NIC Link is Up<100 Mbps Full Duplex>
+Nov  8 23:20:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627420.7701] dhcp4 (enp9s0): canceled DHCP transaction, DHCP client pid 908
+Nov  8 23:20:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627420.7702] dhcp4 (enp9s0): state changed bound -> done
+Nov  8 23:20:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627420.7713] dhcp4 (enp9s0): activation: beginning transaction (timeout in 45 seconds)
+Nov  8 23:20:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627420.7741] dhcp4 (enp9s0): dhclient started with pid 2904
+Nov  8 23:20:20 arpit-VPCEG15EN dhclient[2904]: DHCPREQUEST of 10.50.5.124 on enp9s0 to 255.255.255.255 port 67 (xid=0x73e90839)
+Nov  8 23:20:21 arpit-VPCEG15EN dhclient[2904]: DHCPACK of 10.50.5.124 from 10.50.4.1
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkMa
+nager[807]: <info>  [1478627421.0567]   address 10.50.5.124
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0568]   plen 22 (255.255.252.0)
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0568]   gateway 10.50.4.1
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0569]   server identifier 10.20.1.3
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0570]   lease time 900
+Nov  8 23:20:21 arpit-VPCEG15EN avahi-daemon[749]: Joining mDNS multicast group on interface enp9s0.IPv4 with address 10.50.5.124.
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0570]   nameserver '10.3.0.101'
+Nov  8 23:20:21 arpit-VPCEG15EN avahi-daemon[749]: New relevant interface enp9s0.IPv4 for mDNS.
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0571]   nameserver '10.20.1.21'
+Nov  8 23:20:21 arpit-VPCEG15EN avahi-daemon[749]: Registering new address record for 10.50.5.124 on enp9s0.IPv4.
+Nov 
+ 8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0572]   nameserver '10.20.1.22'
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0572]   nameserver '4.2.2.2'
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0573]   nameserver '8.8.8.8'
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0573]   domain name 'nitk.ac.in'
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0574] dhcp4 (enp9s0): state changed unknown -> bound
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0618] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0638] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov  8 23:20:21 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627421.0640] policy: set 'Wired connection 1' (enp9s0) as default for IPv4 routing and DNS
+Nov  8 23:20:21 arpit-VPCEG15EN dbus[751]: [system] Activating vi
+a systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  8 23:20:21 arpit-VPCEG15EN systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov  8 23:20:21 arpit-VPCEG15EN dbus[751]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  8 23:20:21 arpit-VPCEG15EN systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov  8 23:20:21 arpit-VPCEG15EN nm-dispatcher: req:1 'dhcp4-change' [enp9s0]: new request (2 scripts)
+Nov  8 23:20:21 arpit-VPCEG15EN nm-dispatcher: req:1 'dhcp4-change' [enp9s0]: start running ordered scripts...
+Nov  8 23:20:21 arpit-VPCEG15EN dhclient[2904]: bound to 10.50.5.124 -- renewal in 365 seconds.
+Nov  8 23:20:22 arpit-VPCEG15EN ntpd[1185]: Listen normally on 10 enp9s0 10.50.5.124:123
+Nov  8 23:20:22 arpit-VPCEG15EN ntpd[1185]: 52.66.76.135 local addr 10.50.4.237 -> 10.50.5.124
+Nov  8 23:20:22 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 10.50.4.237 -> 10.50.5.124
+Nov  8 23:20:22 arpi
+t-VPCEG15EN ntpd[1185]: 123.108.200.124 local addr 10.50.4.237 -> 10.50.5.124
+Nov  8 23:20:22 arpit-VPCEG15EN ntpd[1185]: new interface(s) found: waking up resolver
+Nov  8 23:20:23 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 139.59.19.184
+Nov  8 23:20:26 arpit-VPCEG15EN whoopsie[721]: [23:20:26] offline
+Nov  8 23:20:26 arpit-VPCEG15EN whoopsie[721]: [23:20:26] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/0
+Nov  8 23:20:26 arpit-VPCEG15EN whoopsie[721]: [23:20:26] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/0
+Nov  8 23:20:26 arpit-VPCEG15EN whoopsie[721]: [23:20:26] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/0
+Nov  8 23:20:26 arpit-VPCEG15EN whoopsie[721]: [23:20:26] online
+Nov  8 23:20:31 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627431.2586] device (enp9s0): link disconnected (deferring action for 4 seconds)
+Nov  8 23:20:31 arpit-VPCEG15EN kernel: [ 1019.974704] atl1c 0000:09:00.0: atl1c: enp9s0 NIC Link i
+s Down
+Nov  8 23:20:32 arpit-VPCEG15EN ntpd[1185]: Deleting interface #5 enp9s0, fe80::23d8:19bf:568d:45c9%2#123, interface stats: received=0, sent=0, dropped=0, active_time=987 secs
+Nov  8 23:20:32 arpit-VPCEG15EN ntpd[1185]: Deleting interface #10 enp9s0, 10.50.5.124#123, interface stats: received=1, sent=4, dropped=0, active_time=10 secs
+Nov  8 23:20:32 arpit-VPCEG15EN ntpd[1185]: 123.108.200.124 local addr 10.50.5.124 -> <null>
+Nov  8 23:20:32 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 10.50.5.124 -> <null>
+Nov  8 23:20:32 arpit-VPCEG15EN ntpd[1185]: 52.66.76.135 local addr 10.50.5.124 -> <null>
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2531] device (enp9s0): link disconnected (calling deferred action)
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2541] device (enp9s0): state change: activated -> unavailable (reason 'carrier-changed') [100 20 40]
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2707] dhcp4 (enp9s0
+): canceled DHCP transaction, DHCP client pid 2904
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2708] dhcp4 (enp9s0): state changed bound -> done
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Withdrawing address record for 10.50.5.124 on enp9s0.
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Leaving mDNS multicast group on interface enp9s0.IPv4 with address 10.50.5.124.
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Interface enp9s0.IPv4 no longer relevant for mDNS.
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Withdrawing address record for fe80::23d8:19bf:568d:45c9 on enp9s0.
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2751] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Leaving mDNS multicast group on interface enp9s0.IPv6 with address fe80::23d8:19bf:568d:45c9.
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2755] manager: NetworkManager state is now 
+CONNECTED_GLOBAL
+Nov  8 23:20:35 arpit-VPCEG15EN avahi-daemon[749]: Interface enp9s0.IPv6 no longer relevant for mDNS.
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2758] policy: set 'NITK-NET' (wlp2s0) as default for IPv4 routing and DNS
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: setting upstream servers from DBus
+Nov  8 23:20:35 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627435.2764] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: using nameserver 10.3.0.101#53
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: using nameserver 10.20.1.21#53
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: using nameserver 10.20.1.22#53
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: using nameserver 4.2.2.2#53
+Nov  8 23:20:35 arpit-VPCEG15EN dnsmasq[921]: using nameserver 8.8.8.8#53
+Nov  8 23:20:35 arpit-VPCEG15EN dbus[751]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.serv
+ice'
+Nov  8 23:20:35 arpit-VPCEG15EN systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov  8 23:20:35 arpit-VPCEG15EN dbus[751]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  8 23:20:35 arpit-VPCEG15EN systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov  8 23:20:35 arpit-VPCEG15EN nm-dispatcher: req:1 'down' [enp9s0]: new request (2 scripts)
+Nov  8 23:20:35 arpit-VPCEG15EN nm-dispatcher: req:1 'down' [enp9s0]: start running ordered scripts...
+Nov  8 23:20:40 arpit-VPCEG15EN whoopsie[721]: [23:20:40] offline
+Nov  8 23:20:40 arpit-VPCEG15EN whoopsie[721]: [23:20:40] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:20:40 arpit-VPCEG15EN whoopsie[721]: [23:20:40] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:20:40 arpit-VPCEG15EN whoopsie[721]: [23:20:40] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 23:20:40 arpit-VPCEG15EN whoopsie[721]: 
+[23:20:40] online
+Nov  8 23:21:41 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=38:ff:36:48:d6:f8 reason=4 locally_generated=1
+Nov  8 23:21:41 arpit-VPCEG15EN NetworkManager[807]: <warn>  [1478627501.1242] sup-iface[0x1ab0590,wlp2s0]: connection disconnected (reason -4)
+Nov  8 23:21:41 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627501.1424] device (wlp2s0): supplicant interface state: completed -> disconnected
+Nov  8 23:21:41 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890616] cfg80211: World regulatory domain updated:
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890621] cfg80211:  DFS Master region: unset
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890623] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890627] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A
+)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890629] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890632] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890635] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890638] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890641] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890643] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1089.890646] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:21:41 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627
+501.2314] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:21:41 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Nov  8 23:21:41 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 38:ff:36:48:bc:98 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1090.099151] wlp2s0: authenticate with 38:ff:36:48:bc:98
+Nov  8 23:21:41 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627501.4138] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1090.118972] wlp2s0: send auth to 38:ff:36:48:bc:98 (try 1/3)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1090.211644] wlp2s0: send auth to 38:ff:36:48:bc:98 (try 2/3)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1090.322528] wlp2s0: send auth to 38:ff:36:48:bc:98 (try 3/3)
+Nov  8 23:21:41 arpit-VPCEG15EN kernel: [ 1090.452089] wlp2s0: authentication with 38:ff:36:48:bc:98 timed out
+Nov  8 23:2
+1:41 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627501.7692] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Nov  8 23:21:41 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627501.8746] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:21:42 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 38:ff:36:48:c5:f8 (SSID='NITK-NET' freq=2412 MHz)
+Nov  8 23:21:42 arpit-VPCEG15EN kernel: [ 1091.364128] wlp2s0: authenticate with 38:ff:36:48:c5:f8
+Nov  8 23:21:42 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627502.6733] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:21:42 arpit-VPCEG15EN kernel: [ 1091.378022] wlp2s0: send auth to 38:ff:36:48:c5:f8 (try 1/3)
+Nov  8 23:21:42 arpit-VPCEG15EN kernel: [ 1091.461520] wlp2s0: send auth to 38:ff:36:48:c5:f8 (try 2/3)
+Nov  8 23:21:42 arpit-VPCEG15EN kernel: [ 1091.520827] wlp2s0: send auth to 38:ff:36:48:c5:f8 (try 3/3)
+Nov  8 23:21:42 arpit-VPC
+EG15EN kernel: [ 1091.584322] wlp2s0: authentication with 38:ff:36:48:c5:f8 timed out
+Nov  8 23:21:42 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627502.9014] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Nov  8 23:21:43 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627503.0066] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:21:43 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 1c:b9:c4:54:33:68 (SSID='NITK-NET' freq=2437 MHz)
+Nov  8 23:21:43 arpit-VPCEG15EN kernel: [ 1092.499384] wlp2s0: authenticate with 1c:b9:c4:54:33:68
+Nov  8 23:21:43 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627503.8136] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:21:43 arpit-VPCEG15EN kernel: [ 1092.518356] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 1/3)
+Nov  8 23:21:43 arpit-VPCEG15EN kernel: [ 1092.591428] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 2/3)
+Nov  8 23:21:44 arpit-VPCEG15EN 
+kernel: [ 1092.716813] wlp2s0: send auth to 1c:b9:c4:54:33:68 (try 3/3)
+Nov  8 23:21:44 arpit-VPCEG15EN kernel: [ 1092.802695] wlp2s0: authentication with 1c:b9:c4:54:33:68 timed out
+Nov  8 23:21:44 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627504.1215] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: Deleting interface #8 wlp2s0, 10.50.4.237#123, interface stats: received=2, sent=10, dropped=0, active_time=859 secs
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: 123.108.200.124 local addr 10.50.4.237 -> <null>
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 10.50.4.237 -> <null>
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: 52.66.76.135 local addr 10.50.4.237 -> <null>
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: 91.189.91.157 local addr 10.50.4.237 -> <null>
+Nov  8 23:21:44 arpit-VPCEG15EN ntpd[1185]: Deleting interface #9 wlp2s0, fe80::2e28:4b86:2be4:3673%3#123, interface stats: received=0, sent=0, dropped=0, acti
+ve_time=859 secs
+Nov  8 23:21:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627505.1248] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:21:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 38:ff:36:48:d1:58 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.002560] wlp2s0: authenticate with 38:ff:36:48:d1:58
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.039483] wlp2s0: send auth to 38:ff:36:48:d1:58 (try 1/3)
+Nov  8 23:21:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627505.3356] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.156650] wlp2s0: send auth to 38:ff:36:48:d1:58 (try 2/3)
+Nov  8 23:21:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 38:ff:36:48:d1:58 (SSID='NITK-NET' freq=2472 MHz)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.161454] wlp2s0: authenticated
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1
+094.165432] wlp2s0: associate with 38:ff:36:48:d1:58 (try 1/3)
+Nov  8 23:21:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627505.4627] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:21:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 38:ff:36:48:d1:58
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.183775] wlp2s0: RX AssocResp from 38:ff:36:48:d1:58 (capab=0x431 status=0 aid=6)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.184000] wlp2s0: associated
+Nov  8 23:21:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627505.4850] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 23:21:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230066] ath: EEPROM regdomain: 0x8164
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230071] ath: EEPROM indicates we should expect a country code
+Nov  8 23:21:45 arpit-VPCEG15EN kern
+el: [ 1094.230073] ath: doing EEPROM country->regdmn map search
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230075] ath: country maps to regdmn code: 0x5b
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230077] ath: Country alpha2 being used: IN
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230078] ath: Regpair used: 0x5b
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230080] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230110] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230111] cfg80211:  DFS Master region: JP
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230113] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230117] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230120] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 16000
+0 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230123] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:21:45 arpit-VPCEG15EN kernel: [ 1094.230125] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:21:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 38:ff:36:48:d1:58 [PTK=CCMP GTK=CCMP]
+Nov  8 23:21:49 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 38:ff:36:48:d1:58 completed [id=0 id_str=]
+Nov  8 23:21:49 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627509.4894] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:21:50 arpit-VPCEG15EN ntpd[1185]: Listen normally on 11 wlp2s0 10.50.4.237:123
+Nov  8 23:21:50 arpit-VPCEG15EN ntpd[1185]: Listen normally on 12 wlp2s0 [fe80::2e28:4b86:2be4:3673%3]:123
+Nov  8 23:21:50 arpit-VPCEG15EN ntpd[1185]: new interface(s) found: waking up resolv
+er
+Nov  8 23:21:51 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 139.59.19.184
+Nov  8 23:22:39 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 139.59.21.22
+Nov  8 23:24:44 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627684.5420] device (wlp2s0): state change: activated -> deactivating (reason 'user-requested') [100 110 39]
+Nov  8 23:24:44 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627684.5425] manager: NetworkManager state is now DISCONNECTING
+Nov  8 23:24:44 arpit-VPCEG15EN whoopsie[721]: [23:24:44] offline
+Nov  8 23:24:44 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627684.9649] audit: op="device-disconnect" interface="wlp2s0" ifindex=3 pid=1956 uid=1000 result="success"
+Nov  8 23:24:44 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627684.9675] device (wlp2s0): state change: deactivating -> disconnected (reason 'user-requested') [110 30 39]
+Nov  8 23:24:44 arpit-VPCEG15EN avahi-daemon[749]: Withdrawing address record for fe80::2e28:4b86:2be4:3673 on wlp2s0.
+Nov  8 23:24:44 arpi
+t-VPCEG15EN avahi-daemon[749]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::2e28:4b86:2be4:3673.
+Nov  8 23:24:44 arpit-VPCEG15EN avahi-daemon[749]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627685.0022] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 1598
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627685.0023] dhcp4 (wlp2s0): state changed bound -> done
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1273.704773] wlp2s0: deauthenticating from 38:ff:36:48:d1:58 by local choice (Reason: 3=DEAUTH_LEAVING)
+Nov  8 23:24:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=38:ff:36:48:d1:58 reason=3 locally_generated=1
+Nov  8 23:24:45 arpit-VPCEG15EN avahi-daemon[749]: Withdrawing address record for 10.50.4.237 on wlp2s0.
+Nov  8 23:24:45 arpit-VPCEG15EN avahi-daemon[749]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 10.50.4.237.
+Nov  8 23:2
+4:45 arpit-VPCEG15EN avahi-daemon[749]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627685.2820] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov  8 23:24:45 arpit-VPCEG15EN dnsmasq[921]: setting upstream servers from DBus
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627685.3328] manager: NetworkManager state is now DISCONNECTED
+Nov  8 23:24:45 arpit-VPCEG15EN dbus[751]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  8 23:24:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042413] cfg80211: World regulatory domain updated:
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042418] cfg80211:  DFS Master region: unset
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042419] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, m
+ax_eirp), (dfs_cac_time)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042423] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042425] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042428] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042430] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042433] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042436] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.042438] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN kernel: [ 1274.
+042440] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <warn>  [1478627685.3423] sup-iface[0x1ab0590,wlp2s0]: connection disconnected (reason -3)
+Nov  8 23:24:45 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627685.3424] device (wlp2s0): supplicant interface state: completed -> disconnected
+Nov  8 23:24:45 arpit-VPCEG15EN systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov  8 23:24:45 arpit-VPCEG15EN dbus[751]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  8 23:24:45 arpit-VPCEG15EN systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov  8 23:24:45 arpit-VPCEG15EN nm-dispatcher: req:1 'down' [wlp2s0]: new request (2 scripts)
+Nov  8 23:24:45 arpit-VPCEG15EN nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Nov  8 23:24:45 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Nov  8 23:24:47 arpit-VP
+CEG15EN ntpd[1185]: Deleting interface #11 wlp2s0, 10.50.4.237#123, interface stats: received=7, sent=12, dropped=0, active_time=177 secs
+Nov  8 23:24:47 arpit-VPCEG15EN ntpd[1185]: 123.108.200.124 local addr 10.50.4.237 -> <null>
+Nov  8 23:24:47 arpit-VPCEG15EN ntpd[1185]: 91.189.91.157 local addr 10.50.4.237 -> <null>
+Nov  8 23:24:47 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 10.50.4.237 -> <null>
+Nov  8 23:24:47 arpit-VPCEG15EN ntpd[1185]: 52.66.76.135 local addr 10.50.4.237 -> <null>
+Nov  8 23:24:47 arpit-VPCEG15EN ntpd[1185]: Deleting interface #12 wlp2s0, fe80::2e28:4b86:2be4:3673%3#123, interface stats: received=0, sent=0, dropped=0, active_time=177 secs
+Nov  8 23:24:49 arpit-VPCEG15EN whoopsie[721]: [23:24:49] Cannot reach: https://daisy.ubuntu.com
+Nov  8 23:24:49 arpit-VPCEG15EN whoopsie[721]: [23:24:49] Cannot reach: https://daisy.ubuntu.com
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5145] device (wlp2s0): Activation: starting connection 'aaaa' (7001b36f-41f3
+-4ab0-87c2-4923b153dbc2)
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5149] audit: op="connection-activate" uuid="7001b36f-41f3-4ab0-87c2-4923b153dbc2" name="aaaa" pid=1956 uid=1000 result="success"
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5154] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5160] manager: NetworkManager state is now CONNECTING
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5180] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5194] device (wlp2s0): Activation: (wifi) access point 'aaaa' has security, but secrets are required.
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5203] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Nov  8 23:25:18 arpit-VPC
+EG15EN NetworkManager[807]: <info>  [1478627718.5456] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5465] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5470] device (wlp2s0): Activation: (wifi) connection 'aaaa' has security, and secrets exist.  No new secrets needed.
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5472] Config: added 'ssid' value 'aaaa'
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5472] Config: added 'scan_ssid' value '1'
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5473] Config: added 'key_mgmt' value 'WPA-PSK'
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5473] Config: added 'auth_alg' value 'OPEN'
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5473] Conf
+ig: added 'psk' value '<omitted>'
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5537] sup-iface[0x1ab0590,wlp2s0]: config: set interface ap_scan to 1
+Nov  8 23:25:18 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627718.5760] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: SME: Trying to authenticate with 4a:cf:5e:52:71:fb (SSID='aaaa' freq=2462 MHz)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.059275] wlp2s0: authenticate with 4a:cf:5e:52:71:fb
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.073189] wlp2s0: send auth to 4a:cf:5e:52:71:fb (try 1/3)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.3758] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Trying to associate with 4a:cf:5e:52:71:fb (SSID='aaaa' freq=2462 MHz)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.075324] wlp2s0: authentic
+ated
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.078342] wlp2s0: associate with 4a:cf:5e:52:71:fb (try 1/3)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.3833] device (wlp2s0): supplicant interface state: authenticating -> associating
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: Associated with 4a:cf:5e:52:71:fb
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.082818] wlp2s0: RX AssocResp from 4a:cf:5e:52:71:fb (capab=0x431 status=0 aid=1)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.082947] wlp2s0: associated
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.3907] device (wlp2s0): supplicant interface state: associating -> associated
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120307] ath: EEPROM regdomain: 0x8164
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120311] ath: EEPROM indicates we should expect a countr
+y code
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120313] ath: doing EEPROM country->regdmn map search
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120314] ath: country maps to regdmn code: 0x5b
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120316] ath: Country alpha2 being used: IN
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120317] ath: Regpair used: 0x5b
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120319] ath: regdomain 0x8164 dynamically updated by country IE
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120350] cfg80211: Regulatory domain changed to country: IN
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120352] cfg80211:  DFS Master region: JP
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120354] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120356] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120359] cfg80211:   (5
+170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120362] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Nov  8 23:25:19 arpit-VPCEG15EN kernel: [ 1308.120364] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4864] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: WPA: Key negotiation completed with 4a:cf:5e:52:71:fb [PTK=CCMP GTK=CCMP]
+Nov  8 23:25:19 arpit-VPCEG15EN wpa_supplicant[906]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 4a:cf:5e:52:71:fb completed [id=0 id_str=]
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4948] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4949] devi
+ce (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'aaaa'.
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4950] device (wlp2s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4956] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.4974] dhcp4 (wlp2s0): dhclient started with pid 3239
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPREQUEST of 192.168.202.2 on wlp2s0 to 255.255.255.255 port 67 (xid=0x204e8201)
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPNAK from 192.168.202.1 (xid=0x1824e20)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6054] dhcp4 (wlp2s0): state changed unknown -> expire
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6111] dhcp4 (wlp2s0): state changed expire -> unknow
+n
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPDISCOVER on wlp2s0 to 255.255.255.255 port 67 interval 3 (xid=0xc69c6c53)
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPREQUEST of 192.168.202.2 on wlp2s0 to 255.255.255.255 port 67 (xid=0x536c9cc6)
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPOFFER of 192.168.202.2 from 192.168.202.1
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: DHCPACK of 192.168.202.2 from 192.168.202.1
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6615]   address 192.168.202.2
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6616]   plen 24 (255.255.255.0)
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6617]   gateway 192.168.202.1
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6617]   server identifier 192.168.202.1
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6617]   lease time 360000
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <in
+fo>  [1478627719.6618]   nameserver '10.3.0.101'
+Nov  8 23:25:19 arpit-VPCEG15EN avahi-daemon[749]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.202.2.
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6618]   nameserver '114.114.114.114'
+Nov  8 23:25:19 arpit-VPCEG15EN avahi-daemon[749]: New relevant interface wlp2s0.IPv4 for mDNS.
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6619]   domain name 'workgroup'
+Nov  8 23:25:19 arpit-VPCEG15EN avahi-daemon[749]: Registering new address record for 192.168.202.2 on wlp2s0.IPv4.
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6619] dhcp4 (wlp2s0): state changed unknown -> bound
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6659] device (wlp2s0): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Nov  8 23:25:19 arpit-VPCEG15EN whoopsie[721]: [23:25:19] Cannot reach: https://daisy.ubuntu.com
+Nov  8 23:25:19 arpit-VPCEG15EN Ne
+tworkManager[807]: <info>  [1478627719.6694] device (wlp2s0): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6704] device (wlp2s0): state change: secondaries -> activated (reason 'none') [90 100 0]
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.6707] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov  8 23:25:19 arpit-VPCEG15EN dhclient[3239]: bound to 192.168.202.2 -- renewal in 177326 seconds.
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.8702] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.8705] policy: set 'aaaa' (wlp2s0) as default for IPv4 routing and DNS
+Nov  8 23:25:19 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627719.8721] dns-mgr: Writing DNS information to /sbin/resolvconf
+Nov  8 23:25:19 arpit-VPCEG15EN dnsmasq[921]: setting upstream servers from DBus
+Nov  8 23:25:1
+9 arpit-VPCEG15EN dnsmasq[921]: using nameserver 10.3.0.101#53
+Nov  8 23:25:19 arpit-VPCEG15EN dnsmasq[921]: using nameserver 114.114.114.114#53
+Nov  8 23:25:20 arpit-VPCEG15EN NetworkManager[807]: <info>  [1478627720.0035] device (wlp2s0): Activation: successful, device activated.
+Nov  8 23:25:20 arpit-VPCEG15EN dbus[751]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  8 23:25:20 arpit-VPCEG15EN whoopsie[721]: [23:25:20] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/2
+Nov  8 23:25:20 arpit-VPCEG15EN whoopsie[721]: [23:25:20] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/2
+Nov  8 23:25:20 arpit-VPCEG15EN whoopsie[721]: [23:25:20] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/2
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov  8 23:25:20 arpit-VPCEG15EN dbus[751]: [system] Successfully activa
+ted service 'org.freedesktop.nm_dispatcher'
+Nov  8 23:25:20 arpit-VPCEG15EN nm-dispatcher: req:1 'up' [wlp2s0]: new request (2 scripts)
+Nov  8 23:25:20 arpit-VPCEG15EN nm-dispatcher: req:1 'up' [wlp2s0]: start running ordered scripts...
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov  8 23:25:20 arpit-VPCEG15EN whoopsie[721]: [23:25:20] online
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Reloading OpenBSD Secure Shell server.
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Reloaded OpenBSD Secure Shell server.
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Reloading OpenBSD Secure Shell server.
+Nov  8 23:25:20 arpit-VPCEG15EN systemd[1]: Reloaded OpenBSD Secure Shell server.
+Nov  8 23:25:21 arpit-VPCEG15EN avahi-daemon[749]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::b70c:5020:c93e:bbff.
+Nov  8 23:25:21 arpit-VPCEG15EN avahi-daemon[749]: New relevant interface wlp2s0.IPv6 for mDNS.
+Nov  8 23:25:21 arpit-VPCEG15EN avahi-daemon[749]: Regis
+tering new address record for fe80::b70c:5020:c93e:bbff on wlp2s0.*.
+Nov  8 23:25:22 arpit-VPCEG15EN ntpd[1185]: Listen normally on 13 wlp2s0 192.168.202.2:123
+Nov  8 23:25:22 arpit-VPCEG15EN ntpd[1185]: Listen normally on 14 wlp2s0 [fe80::b70c:5020:c93e:bbff%3]:123
+Nov  8 23:25:22 arpit-VPCEG15EN ntpd[1185]: new interface(s) found: waking up resolver
+Nov  8 23:25:23 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 139.59.19.184
+Nov  8 23:25:23 arpit-VPCEG15EN ntpd[1185]: Soliciting pool server 139.59.21.22
+Nov  8 23:25:41 arpit-VPCEG15EN ntpd[1185]: receive: Unexpected origin timestamp from 139.59.21.22
+Nov  8 23:28:05 arpit-VPCEG15EN dbus[751]: [system] Activating service name='org.blueman.Mechanism' (using servicehelper)
+Nov  8 23:28:05 arpit-VPCEG15EN org.blueman.Mechanism[751]: Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Nov  8 23:28:05 arpit-VPCEG15EN org.blueman.Mechanism[751]: Unable to init server: Could not connect: Connection refused
+Nov  8 23:28:05 arp
+it-VPCEG15EN org.blueman.Mechanism[751]: Failed to connect to Mir: Failed to connect to server socket: No such file or directory
+Nov  8 23:28:05 arpit-VPCEG15EN org.blueman.Mechanism[751]: Unable to init server: Could not connect: Connection refused
+Nov  8 23:28:05 arpit-VPCEG15EN blueman-mechanism: Starting blueman-mechanism
+Nov  8 23:28:05 arpit-VPCEG15EN dbus[751]: [system] Successfully activated service 'org.blueman.Mechanism'
+Nov  8 23:28:05 arpit-VPCEG15EN org.blueman.Mechanism[751]: (blueman-mechanism:3545): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+Nov  8 23:28:05 arpit-VPCEG15EN blueman-mechanism: loading Ppp
+Nov  8 23:28:05 arpit-VPCEG15EN blueman-mechanism: loading Network
+Nov  8 23:28:05 arpit-VPCEG15EN blueman-mechanism: loading RfKill
+Nov  8 23:28:05 arpit-VPCEG15EN blueman-mechanism: loading Rfcomm
+Nov  8 23:28:05 arpit-VPCEG15EN systemd[1]: Starting Load/Save RF Kill Switch Status...
+Nov  8 23:28:05 arpit-VPCEG15EN systemd[1]: Started Load/Save R
+F Kill Switch Status.
+Nov  8 23:28:10 arpit-VPCEG15EN systemd[1]: Started Session 3 of user arpit.
+Nov  8 23:28:35 arpit-VPCEG15EN blueman-mechanism: Exiting
+Nov  8 23:34:25 arpit-VPCEG15EN ntpd[1185]: 125.62.193.121 local addr 192.168.202.2 -> <null>
+Nov  8 23:41:00 arpit-VPCEG15EN systemd[1]: Started Session 4 of user arpit.
+Nov  8 23:42:09 arpit-VPCEG15EN systemd[1]: Started Session 5 of user arpit.
+Nov  8 23:42:13 arpit-VPCEG15EN systemd[1]: Started Session 6 of user arpit.
+Nov  8 23:52:23 arpit-VPCEG15EN systemd[1]: Started Session 7 of user arpit.
+

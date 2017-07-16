@@ -1,0 +1,413 @@
+Nov 10 13:08:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2204]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:08:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2206]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:08:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2202]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:08:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2203]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:08:06 pgadmin11-HP-Compaq-8100-Elite-CMT-PC anacron[566]: Job `cron.daily' terminated
+Nov 10 13:08:06 pgadmin11-HP-Compaq-8100-Elite-CMT-PC anacron[566]: Normal exit (1 job run)
+Nov 10 13:08:51 pgadmin11-HP-Compaq-8100-Elite-CMT-PC kernel: [  366.863560] perf interrupt took too long (2504 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+Nov 10 13:09:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2240]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+N
+ov 10 13:09:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2241]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:09:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2239]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:09:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2238]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:10:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2249]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:10:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2250]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:10:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2247]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:10:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2248]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:11:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2258]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.l
+og)
+Nov 10 13:11:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2259]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:11:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2256]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:11:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2257]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:12:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2265]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:12:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2263]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:12:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2267]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:12:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2264]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:13:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2275]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp
+/code_to_copy.log)
+Nov 10 13:13:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2276]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:13:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2274]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:13:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2273]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:13:09 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:13:15 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: message repeated 2 times: [ DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)]
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1092]   address 10.100.53.88
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <i
+nfo>  [1478763800.1092]   plen 22 (255.255.252.0)
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1093]   gateway 10.100.52.1
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1093]   server identifier 10.20.1.3
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1093]   lease time 900
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1093]   nameserver '10.20.1.22'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1094]   nameserver '10.20.1.21'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1094]   nameserver '10.3.0.101'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1094]   nameserver '4.2.2.2'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd:
+ service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1094]   nameserver '8.8.8.8'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1095]   domain name 'nitk.ac.in'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478763800.1095] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:13:20 pgadmin11-HP-C
+ompaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:13:20 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 441 seconds.
+Nov 10 13:14:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2295]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:14:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2293]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:14:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2297]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:14:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2294]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:14:44 pgadmin11-HP-Compaq-8100-Elite-CMT-PC AptDaemon.Worker: INFO: Updating cache
+Nov 10 13:14:44 pgadmin11-HP-Compaq-8100-Elite-CMT-PC org.debian.apt[585]: 13:14:44 AptDaemon.Worker [INFO]: Updating cache
+Nov 10 13:14:48 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: S
+tarted Daily apt activities.
+Nov 10 13:14:48 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: apt-daily.timer: Adding 8h 42min 190.377ms random time.
+Nov 10 13:14:48 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Startup finished in 5.156s (kernel) + 11min 58.538s (userspace) = 12min 3.695s.
+Nov 10 13:14:48 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: apt-daily.timer: Adding 11h 34min 32.926864s random time.
+Nov 10 13:15:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2564]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:15:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2562]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:15:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2566]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:15:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2563]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:15:06 pgadmin11-HP-Compaq-8100-Elite-CMT-PC AptDaemon.Worker: INFO: Finished
+ transaction /org/debian/apt/transaction/37d70311409148e68634969c19c0924d
+Nov 10 13:15:06 pgadmin11-HP-Compaq-8100-Elite-CMT-PC org.debian.apt[585]: 13:15:06 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/37d70311409148e68634969c19c0924d
+Nov 10 13:16:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2632]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:16:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2633]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:16:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2630]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:16:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2631]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:16:27 pgadmin11-HP-Compaq-8100-Elite-CMT-PC gnome-session[1320]: Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Nov 10 13:17:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2661]: (root) CMD (   cd / &&
+ run-parts --report /etc/cron.hourly)
+Nov 10 13:17:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2663]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:17:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2664]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:17:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2659]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:17:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2660]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:17:58 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Cleanup of Temporary Directories...
+Nov 10 13:17:58 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd-tmpfiles[2669]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Nov 10 13:17:58 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Cleanup of Temporary Directories.
+Nov 10 13:18:02 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2675]: (root) CMD (/home/pgadmin1
+1/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:18:02 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2673]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:18:02 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2677]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:18:02 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2674]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:19:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2682]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:19:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2680]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:19:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2684]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:19:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2681]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:20:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2689]: (root) CMD (/hom
+e/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:20:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2687]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:20:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2691]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:20:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2688]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:20:41 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:20:44 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5627]   address 10.100.53.88
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkM
+anager[662]: <info>  [1478764245.5627]   plen 22 (255.255.252.0)
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5628]   gateway 10.100.52.1
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5628]   server identifier 10.20.1.3
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5628]   lease time 900
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5629]   nameserver '10.20.1.22'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5629]   nameserver '10.20.1.21'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5629]   nameserver '10.3.0.101'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:20:
+45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5630]   nameserver '4.2.2.2'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5630]   nameserver '8.8.8.8'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5630]   domain name 'nitk.ac.in'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764245.5630] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:20:45
+ pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:20:45 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 393 seconds.
+Nov 10 13:21:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2708]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:21:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2709]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:21:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2707]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:21:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2706]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:22:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2721]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:22:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2723]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/co
+de_to_copy.log)
+Nov 10 13:22:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2719]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:22:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2720]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:23:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2733]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:23:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2731]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:23:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2735]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:23:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2732]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:24:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2743]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:24:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2744]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh
+ > /tmp/code_to_copy.log)
+Nov 10 13:24:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2742]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:24:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2741]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:25:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2752]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:25:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2750]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:25:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2754]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:25:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2751]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:25:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC AptDaemon: INFO: Quitting due to inactivity
+Nov 10 13:25:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC AptDaemon: INFO: Quitting was requested
+Nov 10 13:25:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC org
+.debian.apt[585]: 13:25:17 AptDaemon [INFO]: Quitting due to inactivity
+Nov 10 13:25:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC org.debian.apt[585]: 13:25:17 AptDaemon [INFO]: Quitting was requested
+Nov 10 13:26:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2759]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:26:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2760]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:26:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2757]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:26:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2758]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:26:42 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Session 48 of user pgadmin11.
+Nov 10 13:27:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2831]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:27:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2832]: 
+(pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:27:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2829]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:27:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2830]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:27:18 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9078]   address 10.100.53.88
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9078]   plen 22 (255.255.252.0)
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC Netwo
+rkManager[662]: <info>  [1478764641.9079]   gateway 10.100.52.1
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9079]   server identifier 10.20.1.3
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9079]   lease time 900
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9079]   nameserver '10.20.1.22'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9080]   nameserver '10.20.1.21'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9080]   nameserver '10.3.0.101'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9080]   nameserver '4.2.2.2'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:27:
+21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9081]   nameserver '8.8.8.8'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9081]   domain name 'nitk.ac.in'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764641.9081] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 1
+0 13:27:21 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 356 seconds.
+Nov 10 13:28:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2859]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:28:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2861]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:28:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2857]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:28:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2858]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:29:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2866]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:29:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2864]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:29:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2868]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_co
+py.log)
+Nov 10 13:29:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2865]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:30:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2873]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:30:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2871]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:30:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2875]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:30:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2872]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:31:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2881]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:31:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2880]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:31:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2879]: (CRON) info (No MTA installed, d
+iscarding output)
+Nov 10 13:31:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2878]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:32:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2887]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:32:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2885]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:32:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2889]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:32:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2886]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:33:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2894]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:33:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2892]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:33:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2896]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.
+sh > /tmp/code_to_copy.log)
+Nov 10 13:33:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2893]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5789]   address 10.100.53.88
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5789]   plen 22 (255.255.252.0)
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5789]   gateway 10.100.52.1
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5790]   server identifier 10.20.1.3
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5790]   lease time 900
+N
+ov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5790]   nameserver '10.20.1.22'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5790]   nameserver '10.20.1.21'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5791]   nameserver '10.3.0.101'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5791]   nameserver '4.2.2.2'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5791]   nameserver '8.8.8.8'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478764997.5791]   domain name 'nitk.ac.in'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: 
+<info>  [1478764997.5792] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:33:17 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 433 seconds.
+Nov 10 13:34:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2914]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:34:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2
+915]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:34:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2912]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:34:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2913]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:35:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2921]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:35:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2919]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:35:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2923]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:35:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2920]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:36:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2928]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:36:01 pgadmin11-HP-Compaq-8100-Elite-CMT
+-PC CRON[2929]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:36:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2926]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:36:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2927]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:37:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2936]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:37:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2934]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:37:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2938]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:37:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2935]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:38:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2943]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:38:01 pgadmin11-HP-Compaq-8100
+-Elite-CMT-PC CRON[2945]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:38:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2941]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:38:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2942]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:39:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2950]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:39:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2951]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:39:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2949]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:39:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2948]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:40:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2957]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:40:01 pgadmin11-HP-C
+ompaq-8100-Elite-CMT-PC CRON[2955]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:40:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2959]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:40:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2956]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9231]   address 10.100.53.88
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9231]   plen 22 (255.255.252.0)
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9232]   gateway 10.100.52.1
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-
+CMT-PC NetworkManager[662]: <info>  [1478765430.9232]   server identifier 10.20.1.3
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9232]   lease time 900
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9233]   nameserver '10.20.1.22'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9234]   nameserver '10.20.1.21'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9234]   nameserver '10.3.0.101'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9234]   nameserver '4.2.2.2'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9235]   nameserver '8.8.8.8'
+
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9235]   domain name 'nitk.ac.in'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765430.9236] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:40:30 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 400 second
+s.
+Nov 10 13:41:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2976]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:41:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2977]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:41:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2974]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:41:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2975]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:42:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2983]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:42:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2985]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:42:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2981]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:42:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2982]: (CRON) info (No MTA installed, discar
+ding output)
+Nov 10 13:43:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2991]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:43:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2989]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:43:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2993]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:43:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2990]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:44:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2999]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:44:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3000]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:44:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2997]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:44:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[2998]: (CRON) info (No MTA install
+ed, discarding output)
+Nov 10 13:45:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3010]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:45:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3011]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:45:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3009]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:45:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3008]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:46:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3017]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:46:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3015]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:46:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3019]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:46:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3016]: (CRON) info (No M
+TA installed, discarding output)
+Nov 10 13:46:14 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Session 89 of user pgadmin11.
+Nov 10 13:47:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3057]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:47:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3058]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:47:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3055]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:47:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3056]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3332]   address 10.
+100.53.88
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3333]   plen 22 (255.255.252.0)
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3333]   gateway 10.100.52.1
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3333]   server identifier 10.20.1.3
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3334]   lease time 900
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3334]   nameserver '10.20.1.22'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3334]   nameserver '10.20.1.21'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3335]   nameserver '10.3.0.101'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3335]   nameserver '4.2.2.2'
+Nov 10 13:
+47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3335]   nameserver '8.8.8.8'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3335]   domain name 'nitk.ac.in'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478765830.3336] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher:
+ req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:47:10 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 393 seconds.
+Nov 10 13:47:47 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Session 92 of user pgadmin11.
+Nov 10 13:48:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3110]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:48:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3108]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:48:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3112]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:48:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3109]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:49:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3117]: (root) CMD (/home/pgadmin11
+/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:49:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3118]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:49:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3115]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:49:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3116]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:50:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3124]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:50:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3125]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:50:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3122]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:50:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3123]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:51:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3131]: (root) CMD (/home
+/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:51:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3129]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:51:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3133]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:51:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3130]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:52:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3138]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:52:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3139]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:52:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3136]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:52:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3137]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:53:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3145]: (root) 
+CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:53:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3146]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:53:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3143]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:53:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3144]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPREQUEST of 10.100.53.88 on enp0s25 to 10.20.1.3 port 67 (xid=0x77150a43)
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: DHCPACK of 10.100.53.88 from 10.20.1.3
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3229]   address 10.100.53.88
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3230]   plen 22 (255.255.252.0)
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]
+: <info>  [1478766223.3230]   gateway 10.100.52.1
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3231]   server identifier 10.20.1.3
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3231]   lease time 900
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3232]   nameserver '10.20.1.22'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3232]   nameserver '10.20.1.21'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3232]   nameserver '10.3.0.101'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3233]   nameserver '4.2.2.2'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3233]   nameserver '8.8.8.8'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3
+234]   domain name 'nitk.ac.in'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC NetworkManager[662]: <info>  [1478766223.3234] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dhclient[1862]: bound to 10.100.53.88 -- renewal in 449 seconds.
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC dbus[585]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 13:53:43 pgadmin11-HP-Compaq-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 13:53:43 pgadmin11-HP-Compa
+q-8100-Elite-CMT-PC nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 13:54:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3166]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:54:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3168]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:54:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3164]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:54:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3165]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:55:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3173]: (root) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:55:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3174]: (pgadmin11) CMD (/home/pgadmin11/path/code_to_copy.sh > /tmp/code_to_copy.log)
+Nov 10 13:55:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3171]: (CRON) info (No MTA installed, discarding output)
+Nov 10
+ 13:55:01 pgadmin11-HP-Compaq-8100-Elite-CMT-PC CRON[3172]: (CRON) info (No MTA installed, discarding output)
+Nov 10 13:55:33 pgadmin11-HP-Compaq-8100-Elite-CMT-PC systemd[1]: Started Session 109 of user pgadmin11.
+

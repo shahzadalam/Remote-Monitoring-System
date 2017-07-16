@@ -1,0 +1,46 @@
+Nov 10 19:00:55 pgadmin15-desktop useradd[3577]: new user: name=sshd, UID=121, GID=65534, home=/var/run/sshd, shell=/usr/sbin/nologin
+Nov 10 19:00:56 pgadmin15-desktop usermod[3582]: change user 'sshd' password
+Nov 10 19:00:57 pgadmin15-desktop chage[3587]: changed password expiry for sshd
+Nov 10 19:00:58 pgadmin15-desktop sshd[3666]: Server listening on 0.0.0.0 port 22.
+Nov 10 19:00:58 pgadmin15-desktop sshd[3666]: Server listening on :: port 22.
+Nov 10 19:01:02 pgadmin15-desktop sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:02:58 pgadmin15-desktop pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 19:02:58 pgadmin15-desktop pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Nov 10 19:02:58 pgadmin15-desktop pkexec[3785]: pgadmin15: Executing command [USER=root] [TTY=unknown] [CWD=/home/pgadmin15] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 10 19:17:01 pgadmin15-desktop CRON[3888]: pam_unix(cron
+:session): session opened for user root by (uid=0)
+Nov 10 19:17:01 pgadmin15-desktop CRON[3888]: pam_unix(cron:session): session closed for user root
+Nov 10 19:27:03 pgadmin15-desktop sshd[3940]: Accepted password for pgadmin15 from 10.100.54.137 port 51239 ssh2
+Nov 10 19:27:03 pgadmin15-desktop sshd[3940]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 19:27:03 pgadmin15-desktop systemd-logind[667]: New session 2 of user pgadmin15.
+Nov 10 19:27:04 pgadmin15-desktop sshd[3940]: pam_unix(sshd:session): session closed for user pgadmin15
+Nov 10 19:27:04 pgadmin15-desktop systemd-logind[667]: Removed session 2.
+Nov 10 19:40:27 pgadmin15-desktop sshd[4043]: Accepted password for pgadmin15 from 10.100.54.137 port 51429 ssh2
+Nov 10 19:40:27 pgadmin15-desktop sshd[4043]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 19:40:27 pgadmin15-desktop systemd-logind[667]: New session 3 of user pgadmin15.
+Nov 10 19:40:28 pgadmin15-desktop sshd[4043]: pam_unix(sshd:sess
+ion): session closed for user pgadmin15
+Nov 10 19:40:28 pgadmin15-desktop systemd-logind[667]: Removed session 3.
+Nov 10 20:11:13 pgadmin15-desktop sshd[4200]: Accepted password for pgadmin15 from 10.100.54.137 port 51553 ssh2
+Nov 10 20:11:13 pgadmin15-desktop sshd[4200]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 20:11:13 pgadmin15-desktop systemd-logind[667]: New session 4 of user pgadmin15.
+Nov 10 20:11:14 pgadmin15-desktop sshd[4200]: pam_unix(sshd:session): session closed for user pgadmin15
+Nov 10 20:11:14 pgadmin15-desktop systemd-logind[667]: Removed session 4.
+Nov 10 20:11:27 pgadmin15-desktop sshd[4231]: Accepted password for pgadmin15 from 10.100.54.137 port 51554 ssh2
+Nov 10 20:11:27 pgadmin15-desktop sshd[4231]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 20:11:27 pgadmin15-desktop systemd-logind[667]: New session 5 of user pgadmin15.
+Nov 10 20:11:28 pgadmin15-desktop sshd[4231]: pam_unix(sshd:session): session closed for user pgadmi
+n15
+Nov 10 20:11:28 pgadmin15-desktop systemd-logind[667]: Removed session 5.
+Nov 10 20:17:01 pgadmin15-desktop CRON[4287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 20:17:01 pgadmin15-desktop CRON[4287]: pam_unix(cron:session): session closed for user root
+Nov 10 20:19:44 pgadmin15-desktop sshd[4307]: Accepted password for pgadmin15 from 10.100.54.137 port 51571 ssh2
+Nov 10 20:19:44 pgadmin15-desktop sshd[4307]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 20:19:44 pgadmin15-desktop systemd-logind[667]: New session 7 of user pgadmin15.
+Nov 10 20:19:47 pgadmin15-desktop sshd[4307]: pam_unix(sshd:session): session closed for user pgadmin15
+Nov 10 20:19:47 pgadmin15-desktop systemd-logind[667]: Removed session 7.
+Nov 10 20:21:11 pgadmin15-desktop sshd[4341]: Accepted password for pgadmin15 from 10.100.54.137 port 51578 ssh2
+Nov 10 20:21:11 pgadmin15-desktop sshd[4341]: pam_unix(sshd:session): session opened for user pgadmin15 by (uid=0)
+Nov 10 20:21:11
+ pgadmin15-desktop systemd-logind[667]: New session 8 of user pgadmin15.
+

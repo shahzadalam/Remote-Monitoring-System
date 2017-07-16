@@ -1,0 +1,712 @@
+Nov 10 19:00:51 pgadmin15-desktop systemd[1]: Reloading.
+Nov 10 19:00:51 pgadmin15-desktop systemd[1]: apt-daily.timer: Adding 8h 37min 25.841292s random time.
+Nov 10 19:00:51 pgadmin15-desktop systemd[1]: Started CUPS Scheduler.
+Nov 10 19:00:51 pgadmin15-desktop systemd[1]: Started ACPI event daemon.
+Nov 10 19:00:57 pgadmin15-desktop systemd[1]: Reloading.
+Nov 10 19:00:57 pgadmin15-desktop systemd[1]: apt-daily.timer: Adding 8h 20min 44.252687s random time.
+Nov 10 19:00:57 pgadmin15-desktop systemd[1]: Started CUPS Scheduler.
+Nov 10 19:00:57 pgadmin15-desktop systemd[1]: Started ACPI event daemon.
+Nov 10 19:00:57 pgadmin15-desktop systemd[1]: Reloading.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: apt-daily.timer: Adding 5h 44min 4.050112s random time.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Started CUPS Scheduler.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Started ACPI event daemon.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Reloading.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: apt-daily.tim
+er: Adding 2h 46min 21.802087s random time.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Started CUPS Scheduler.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Started ACPI event daemon.
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Starting OpenBSD Secure Shell server...
+Nov 10 19:00:58 pgadmin15-desktop systemd[1]: Started OpenBSD Secure Shell server.
+Nov 10 19:00:59 pgadmin15-desktop systemd[1]: Reloading.
+Nov 10 19:00:59 pgadmin15-desktop systemd[1]: apt-daily.timer: Adding 3h 5min 8.630871s random time.
+Nov 10 19:00:59 pgadmin15-desktop systemd[1]: Started CUPS Scheduler.
+Nov 10 19:00:59 pgadmin15-desktop systemd[1]: Started ACPI event daemon.
+Nov 10 19:01:11 pgadmin15-desktop anacron[733]: Job `cron.daily' terminated
+Nov 10 19:01:34 pgadmin15-desktop gnome-session[1428]: Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Nov 10 19:04:09 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:04:09 pgadmin15-deskt
+op dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9039]   address 10.100.53.1
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9040]   plen 22 (255.255.252.0)
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9040]   gateway 10.100.52.1
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9040]   server identifier 10.20.1.3
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9040]   lease time 900
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9041]   nameserver '10.20.1.22'
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9041]   nameserver '10.20.1.21'
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9041]   nameserver '10.3.0.101'
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9042]   nameserver '4.2.2.2'
+Nov 10 19:04:09 pgad
+min15-desktop NetworkManager[729]: <info>  [1478784849.9042]   nameserver '8.8.8.8'
+Nov 10 19:04:09 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9042]   domain name 'nitk.ac.in'
+Nov 10 19:04:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478784849.9043] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:04:09 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:04:09 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:04:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:04:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:04:09 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 420 seconds
+.
+Nov 10 19:04:09 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:05:23 pgadmin15-desktop anacron[733]: Job `cron.weekly' started
+Nov 10 19:05:23 pgadmin15-desktop anacron[3810]: Updated timestamp for job `cron.weekly' to 2016-11-10
+Nov 10 19:05:32 pgadmin15-desktop anacron[733]: Job `cron.weekly' terminated
+Nov 10 19:07:21 pgadmin15-desktop kernel: [  735.986394] usb 1-1-port5: over-current condition
+Nov 10 19:07:21 pgadmin15-desktop kernel: [  736.194386] usb 1-1-port6: over-current condition
+Nov 10 19:07:21 pgadmin15-desktop kernel: [  736.402375] usb 1-1-port5: over-current condition
+Nov 10 19:07:22 pgadmin15-desktop kernel: [  736.754337] usb 1-1-port5: over-current condition
+Nov 10 19:07:22 pgadmin15-desktop kernel: [  736.962352] usb 1-1-port6: over-current condition
+Nov 10 19:07:22 pgadmin15-desktop kernel: [  737.522331] usb 1-1-port5: over-current condition
+Nov 10 19:07:23 pgadmin15-desktop kernel: [  737.730322] usb 1-1-port6: over-current condition
+Nov 10
+ 19:07:23 pgadmin15-desktop kernel: [  737.938313] usb 1-1-port5: over-current condition
+Nov 10 19:07:23 pgadmin15-desktop kernel: [  738.146313] usb 1-1-port6: over-current condition
+Nov 10 19:07:24 pgadmin15-desktop kernel: [  738.802286] usb 1-1-port5: over-current condition
+Nov 10 19:07:24 pgadmin15-desktop kernel: [  739.010271] usb 1-1-port6: over-current condition
+Nov 10 19:07:24 pgadmin15-desktop kernel: [  739.218259] usb 1-1-port5: over-current condition
+Nov 10 19:07:24 pgadmin15-desktop kernel: [  739.570245] usb 1-1-port5: over-current condition
+Nov 10 19:07:25 pgadmin15-desktop kernel: [  739.778238] usb 1-1-port6: over-current condition
+Nov 10 19:07:25 pgadmin15-desktop kernel: [  739.986236] usb 1-1-port5: over-current condition
+Nov 10 19:07:25 pgadmin15-desktop kernel: [  740.194221] usb 1-1-port6: over-current condition
+Nov 10 19:07:25 pgadmin15-desktop kernel: [  740.402211] usb 1-1-port5: over-current condition
+Nov 10 19:07:26 pgadmin15-desktop kernel: [  740.818170] usb 1-1-port5: over-cur
+rent condition
+Nov 10 19:07:26 pgadmin15-desktop kernel: [  741.026188] usb 1-1-port6: over-current condition
+Nov 10 19:07:26 pgadmin15-desktop kernel: [  741.234186] usb 1-1-port5: over-current condition
+Nov 10 19:07:27 pgadmin15-desktop kernel: [  741.650109] usb 1-1-port5: over-current condition
+Nov 10 19:07:27 pgadmin15-desktop kernel: [  741.858096] usb 1-1-port6: over-current condition
+Nov 10 19:07:27 pgadmin15-desktop kernel: [  742.274143] usb 1-1-port6: over-current condition
+Nov 10 19:07:28 pgadmin15-desktop kernel: [  742.690097] usb 1-1-port6: over-current condition
+Nov 10 19:07:28 pgadmin15-desktop kernel: [  742.898109] usb 1-1-port5: over-current condition
+Nov 10 19:07:29 pgadmin15-desktop kernel: [  743.938065] usb 1-1-port6: over-current condition
+Nov 10 19:08:59 pgadmin15-desktop AptDaemon: INFO: Quitting due to inactivity
+Nov 10 19:08:59 pgadmin15-desktop AptDaemon: INFO: Quitting was requested
+Nov 10 19:08:59 pgadmin15-desktop org.debian.apt[675]: 19:08:59 AptDaemon [INFO]: Quitting due to
+ inactivity
+Nov 10 19:08:59 pgadmin15-desktop org.debian.apt[675]: 19:08:59 AptDaemon [INFO]: Quitting was requested
+Nov 10 19:10:20 pgadmin15-desktop systemd[1]: Starting Cleanup of Temporary Directories...
+Nov 10 19:10:20 pgadmin15-desktop systemd-tmpfiles[3851]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Nov 10 19:10:20 pgadmin15-desktop systemd[1]: Started Cleanup of Temporary Directories.
+Nov 10 19:10:23 pgadmin15-desktop anacron[733]: Job `cron.monthly' started
+Nov 10 19:10:23 pgadmin15-desktop anacron[733]: Job `cron.monthly' terminated
+Nov 10 19:10:23 pgadmin15-desktop anacron[733]: Normal exit (3 jobs run)
+Nov 10 19:11:09 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:11:09 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6625]   address 10.100.53.1
+Nov 10 19:11:09 pgadmin15-desktop NetworkManage
+r[729]: <info>  [1478785269.6625]   plen 22 (255.255.252.0)
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6626]   gateway 10.100.52.1
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6626]   server identifier 10.20.1.3
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6626]   lease time 900
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6627]   nameserver '10.20.1.22'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6627]   nameserver '10.20.1.21'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6628]   nameserver '10.3.0.101'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6628]   nameserver '4.2.2.2'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6628]   nameserver '8.8.8.8'
+Nov 10 19:11:09 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' 
+unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6628]   domain name 'nitk.ac.in'
+Nov 10 19:11:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478785269.6628] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:11:09 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:11:09 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:11:09 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:11:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:11:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:11:09 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 450 seconds.
+Nov 10 19:17:01 pgadmin15-desktop CRON[3889]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+No
+v 10 19:18:39 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:18:39 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4866]   address 10.100.53.1
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4866]   plen 22 (255.255.252.0)
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4867]   gateway 10.100.52.1
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4867]   server identifier 10.20.1.3
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4867]   lease time 900
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4867]   nameserver '10.20.1.22'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4868]   nameserver '10.20.1.21'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4
+868]   nameserver '10.3.0.101'
+Nov 10 19:18:39 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4868]   nameserver '4.2.2.2'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4868]   nameserver '8.8.8.8'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4869]   domain name 'nitk.ac.in'
+Nov 10 19:18:39 pgadmin15-desktop NetworkManager[729]: <info>  [1478785719.4869] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:18:39 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:18:39 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:18:39 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:18:39 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-c
+hange' [enp0s25]: new request (1 scripts)
+Nov 10 19:18:39 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:18:39 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 345 seconds.
+Nov 10 19:24:24 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:24:25 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0909]   address 10.100.53.1
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0910]   plen 22 (255.255.252.0)
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0910]   gateway 10.100.52.1
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0910]   server identifier 10.20.1.3
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0911]   lease time 900
+Nov 10 19:24:25 pgadmin15-desktop 
+NetworkManager[729]: <info>  [1478786065.0911]   nameserver '10.20.1.22'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0911]   nameserver '10.20.1.21'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0911]   nameserver '10.3.0.101'
+Nov 10 19:24:25 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0911]   nameserver '4.2.2.2'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0912]   nameserver '8.8.8.8'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0912]   domain name 'nitk.ac.in'
+Nov 10 19:24:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478786065.0912] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:24:25 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:24:25 pgadm
+in15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:24:25 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:24:25 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:24:25 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:24:25 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 350 seconds.
+Nov 10 19:27:03 pgadmin15-desktop systemd[1]: Started Session 2 of user pgadmin15.
+Nov 10 19:30:15 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:30:15 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2095]   address 10.100.53.1
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2095]   plen 22 (255.255.252.0)
+Nov 10 
+19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2096]   gateway 10.100.52.1
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2096]   server identifier 10.20.1.3
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2097]   lease time 900
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2097]   nameserver '10.20.1.22'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2097]   nameserver '10.20.1.21'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2098]   nameserver '10.3.0.101'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2098]   nameserver '4.2.2.2'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2099]   nameserver '8.8.8.8'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2099]   domain name 'nitk.ac.in'
+Nov 10 19:30:15 pgadmin15-desktop NetworkManager[729]: <info>  [1478786415.2099] d
+hcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:30:15 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:30:15 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:30:15 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:30:15 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:30:15 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:30:15 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:30:15 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 405 seconds.
+Nov 10 19:37:00 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:37:00 pgadmin15-desktop dhclient[1861]:
+ DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1685]   address 10.100.53.1
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1685]   plen 22 (255.255.252.0)
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1686]   gateway 10.100.52.1
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1686]   server identifier 10.20.1.3
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1686]   lease time 900
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1687]   nameserver '10.20.1.22'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1687]   nameserver '10.20.1.21'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1688]   nameserver '10.3.0.101'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1688]   nameserver '4.2.2.2'
+Nov 10 19:37:00 pgadmin15-desktop dbus
+[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1688]   nameserver '8.8.8.8'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1688]   domain name 'nitk.ac.in'
+Nov 10 19:37:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478786820.1689] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:37:00 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:37:00 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:37:00 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:37:00 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:37:00 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:37:00 p
+gadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 410 seconds.
+Nov 10 19:40:27 pgadmin15-desktop systemd[1]: Started Session 3 of user pgadmin15.
+Nov 10 19:43:50 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:43:51 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0245]   address 10.100.53.1
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0245]   plen 22 (255.255.252.0)
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0245]   gateway 10.100.52.1
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0246]   server identifier 10.20.1.3
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0246]   lease time 900
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0247]   nameserver '10.20.1.22'
+Nov 10 19:43:51 p
+gadmin15-desktop NetworkManager[729]: <info>  [1478787231.0247]   nameserver '10.20.1.21'
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0248]   nameserver '10.3.0.101'
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0248]   nameserver '4.2.2.2'
+Nov 10 19:43:51 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0248]   nameserver '8.8.8.8'
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0249]   domain name 'nitk.ac.in'
+Nov 10 19:43:51 pgadmin15-desktop NetworkManager[729]: <info>  [1478787231.0249] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:43:51 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:43:51 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispat
+cher'
+Nov 10 19:43:51 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:43:51 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:43:51 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:43:51 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 438 seconds.
+Nov 10 19:51:09 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:51:09 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7870]   address 10.100.53.1
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7870]   plen 22 (255.255.252.0)
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7871]   gateway 10.100.52.1
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.78
+71]   server identifier 10.20.1.3
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7871]   lease time 900
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7871]   nameserver '10.20.1.22'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7872]   nameserver '10.20.1.21'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7872]   nameserver '10.3.0.101'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7872]   nameserver '4.2.2.2'
+Nov 10 19:51:09 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7873]   nameserver '8.8.8.8'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7873]   domain name 'nitk.ac.in'
+Nov 10 19:51:09 pgadmin15-desktop NetworkManager[729]: <info>  [1478787669.7873] d
+hcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:51:09 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:51:09 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:51:09 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:51:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:51:09 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 19:51:09 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 411 seconds.
+Nov 10 19:55:56 pgadmin15-desktop org.gnome.evolution.dataserver.Sources5[1289]: ** (evolution-source-registry:1517): WARNING **: secret_service_search_sync: must specify at least one attribute to match
+Nov 10 19:58:00 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 19:58:00 pga
+dmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2760]   address 10.100.53.1
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2760]   plen 22 (255.255.252.0)
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2760]   gateway 10.100.52.1
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2760]   server identifier 10.20.1.3
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2760]   lease time 900
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   nameserver '10.20.1.22'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   nameserver '10.20.1.21'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   nameserver '10.3.0.101'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   nameserver '4.2.2.2'
+Nov 10 1
+9:58:00 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   nameserver '8.8.8.8'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2761]   domain name 'nitk.ac.in'
+Nov 10 19:58:00 pgadmin15-desktop NetworkManager[729]: <info>  [1478788080.2762] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 19:58:00 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 19:58:00 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 19:58:00 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 19:58:00 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 19:58:00 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordere
+d scripts...
+Nov 10 19:58:00 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 444 seconds.
+Nov 10 20:05:24 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:05:25 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2104]   address 10.100.53.1
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2104]   plen 22 (255.255.252.0)
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2105]   gateway 10.100.52.1
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2105]   server identifier 10.20.1.3
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2105]   lease time 900
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2106]   nameserver '10.20.1.22'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [147878
+8525.2106]   nameserver '10.20.1.21'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2106]   nameserver '10.3.0.101'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2106]   nameserver '4.2.2.2'
+Nov 10 20:05:25 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2107]   nameserver '8.8.8.8'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2107]   domain name 'nitk.ac.in'
+Nov 10 20:05:25 pgadmin15-desktop NetworkManager[729]: <info>  [1478788525.2107] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:05:25 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:05:25 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:05:25 pgadmin15-desktop systemd[1]: S
+tarted Network Manager Script Dispatcher Service.
+Nov 10 20:05:25 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:05:25 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:05:25 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 407 seconds.
+Nov 10 20:11:13 pgadmin15-desktop systemd[1]: Started Session 4 of user pgadmin15.
+Nov 10 20:11:27 pgadmin15-desktop systemd[1]: Started Session 5 of user pgadmin15.
+Nov 10 20:12:12 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:12:12 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0056]   address 10.100.53.1
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0057]   plen 22 (255.255.252.0)
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [147
+8788933.0057]   gateway 10.100.52.1
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0057]   server identifier 10.20.1.3
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0058]   lease time 900
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0058]   nameserver '10.20.1.22'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0058]   nameserver '10.20.1.21'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0058]   nameserver '10.3.0.101'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0058]   nameserver '4.2.2.2'
+Nov 10 20:12:13 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0059]   nameserver '8.8.8.8'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.00
+59]   domain name 'nitk.ac.in'
+Nov 10 20:12:13 pgadmin15-desktop NetworkManager[729]: <info>  [1478788933.0059] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:12:13 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:12:13 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:12:13 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:12:13 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:12:13 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:12:13 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 413 seconds.
+Nov 10 20:17:01 pgadmin15-desktop CRON[4288]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Nov 10 20:19:06 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov
+ 10 20:19:06 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5535]   address 10.100.53.1
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5536]   plen 22 (255.255.252.0)
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5536]   gateway 10.100.52.1
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5536]   server identifier 10.20.1.3
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5537]   lease time 900
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5537]   nameserver '10.20.1.22'
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5537]   nameserver '10.20.1.21'
+Nov 10 20:19:06 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:19:06 pgadmin15-desk
+top NetworkManager[729]: <info>  [1478789346.5537]   nameserver '10.3.0.101'
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5538]   nameserver '4.2.2.2'
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5538]   nameserver '8.8.8.8'
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5538]   domain name 'nitk.ac.in'
+Nov 10 20:19:06 pgadmin15-desktop NetworkManager[729]: <info>  [1478789346.5538] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:19:06 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:19:06 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:19:06 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:19:06 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:19:06 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: star
+t running ordered scripts...
+Nov 10 20:19:06 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 416 seconds.
+Nov 10 20:19:44 pgadmin15-desktop systemd[1]: Started Session 7 of user pgadmin15.
+Nov 10 20:21:11 pgadmin15-desktop systemd[1]: Started Session 8 of user pgadmin15.
+Nov 10 20:26:02 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:26:02 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2406]   address 10.100.53.1
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2407]   plen 22 (255.255.252.0)
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2407]   gateway 10.100.52.1
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2407]   server identifier 10.20.1.3
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2407]   lease time
+ 900
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   nameserver '10.20.1.22'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   nameserver '10.20.1.21'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   nameserver '10.3.0.101'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   nameserver '4.2.2.2'
+Nov 10 20:26:02 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   nameserver '8.8.8.8'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2408]   domain name 'nitk.ac.in'
+Nov 10 20:26:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478789762.2409] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:26:02 pgadmin15-desktop systemd[1]: Starting Network Manager Script Disp
+atcher Service...
+Nov 10 20:26:02 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:26:02 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:26:02 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:26:02 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:26:02 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 398 seconds.
+Nov 10 20:32:40 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:32:40 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5764]   address 10.100.53.1
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5764]   plen 22 (255.255.252.0)
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[72
+9]: <info>  [1478790160.5764]   gateway 10.100.52.1
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5765]   server identifier 10.20.1.3
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5765]   lease time 900
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5766]   nameserver '10.20.1.22'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5766]   nameserver '10.20.1.21'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5766]   nameserver '10.3.0.101'
+Nov 10 20:32:40 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5766]   nameserver '4.2.2.2'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5767]   nameserver '8.8.8.8'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>
+  [1478790160.5767]   domain name 'nitk.ac.in'
+Nov 10 20:32:40 pgadmin15-desktop NetworkManager[729]: <info>  [1478790160.5768] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:32:40 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:32:40 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:32:40 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:32:40 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:32:40 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:32:40 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 435 seconds.
+Nov 10 20:39:55 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:39:56 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 1
+0 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3258]   address 10.100.53.1
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3258]   plen 22 (255.255.252.0)
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3259]   gateway 10.100.52.1
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3259]   server identifier 10.20.1.3
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3259]   lease time 900
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3260]   nameserver '10.20.1.22'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3260]   nameserver '10.20.1.21'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3260]   nameserver '10.3.0.101'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3261]   nameserver '4.2.2.2'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3261]  
+ nameserver '8.8.8.8'
+Nov 10 20:39:56 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3261]   domain name 'nitk.ac.in'
+Nov 10 20:39:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478790596.3261] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:39:56 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:39:56 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:39:56 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:39:56 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:39:56 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:39:56 pgadmin15-desktop dhclient[1861]: bound to 10
+.100.53.1 -- renewal in 342 seconds.
+Nov 10 20:45:38 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:45:38 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8442]   address 10.100.53.1
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8442]   plen 22 (255.255.252.0)
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8443]   gateway 10.100.52.1
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8443]   server identifier 10.20.1.3
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8443]   lease time 900
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8443]   nameserver '10.20.1.22'
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8444]   nameserver '10.20.1.21'
+Nov 10 20:45:38 pgadmin15-desktop Net
+workManager[729]: <info>  [1478790938.8444]   nameserver '10.3.0.101'
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8444]   nameserver '4.2.2.2'
+Nov 10 20:45:38 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8444]   nameserver '8.8.8.8'
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8445]   domain name 'nitk.ac.in'
+Nov 10 20:45:38 pgadmin15-desktop NetworkManager[729]: <info>  [1478790938.8445] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:45:38 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:45:38 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:45:38 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:45:38 pgadmin1
+5-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:45:38 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:45:38 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 370 seconds.
+Nov 10 20:51:48 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:51:48 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5851]   address 10.100.53.1
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5851]   plen 22 (255.255.252.0)
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5852]   gateway 10.100.52.1
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5852]   server identifier 10.20.1.3
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5853]   lease time
+ 900
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5853]   nameserver '10.20.1.22'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5853]   nameserver '10.20.1.21'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5854]   nameserver '10.3.0.101'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5854]   nameserver '4.2.2.2'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5855]   nameserver '8.8.8.8'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5855]   domain name 'nitk.ac.in'
+Nov 10 20:51:48 pgadmin15-desktop NetworkManager[729]: <info>  [1478791308.5855] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:51:48 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:51:48 pgadmin15-desktop systemd[1]: Starting Network Manager Script Disp
+atcher Service...
+Nov 10 20:51:48 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:51:48 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:51:48 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:51:48 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:51:48 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 383 seconds.
+Nov 10 20:58:11 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 20:58:11 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4689]   address 10.100.53.1
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4689]   plen 22 (255.255.252.0)
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[72
+9]: <info>  [1478791691.4690]   gateway 10.100.52.1
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4690]   server identifier 10.20.1.3
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4690]   lease time 900
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4690]   nameserver '10.20.1.22'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4691]   nameserver '10.20.1.21'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4691]   nameserver '10.3.0.101'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4692]   nameserver '4.2.2.2'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4692]   nameserver '8.8.8.8'
+Nov 10 20:58:11 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>
+  [1478791691.4692]   domain name 'nitk.ac.in'
+Nov 10 20:58:11 pgadmin15-desktop NetworkManager[729]: <info>  [1478791691.4693] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 20:58:11 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 20:58:11 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 20:58:11 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 20:58:11 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 20:58:11 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 20:58:11 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 346 seconds.
+Nov 10 21:03:57 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:03:57 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 1
+0 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8310]   address 10.100.53.1
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8311]   plen 22 (255.255.252.0)
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8311]   gateway 10.100.52.1
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8311]   server identifier 10.20.1.3
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8311]   lease time 900
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8312]   nameserver '10.20.1.22'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8312]   nameserver '10.20.1.21'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8312]   nameserver '10.3.0.101'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8313]   nameserver '4.2.2.2'
+Nov 10 21:03:57 pgadmin15-desktop dbus[675]: [system] Activating via systemd: serv
+ice name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8313]   nameserver '8.8.8.8'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8314]   domain name 'nitk.ac.in'
+Nov 10 21:03:57 pgadmin15-desktop NetworkManager[729]: <info>  [1478792037.8314] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:03:57 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:03:57 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:03:57 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:03:57 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:03:57 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:03:57 pgadmin15-desktop dhclient[1861]: bound to 10
+.100.53.1 -- renewal in 397 seconds.
+Nov 10 21:10:34 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:10:34 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5544]   address 10.100.53.1
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5545]   plen 22 (255.255.252.0)
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5545]   gateway 10.100.52.1
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5545]   server identifier 10.20.1.3
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5545]   lease time 900
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5546]   nameserver '10.20.1.22'
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5546]   nameserver '10.20.1.21'
+Nov 10 21:10:34 pgadmin15-desktop Net
+workManager[729]: <info>  [1478792434.5546]   nameserver '10.3.0.101'
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5547]   nameserver '4.2.2.2'
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5547]   nameserver '8.8.8.8'
+Nov 10 21:10:34 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5547]   domain name 'nitk.ac.in'
+Nov 10 21:10:34 pgadmin15-desktop NetworkManager[729]: <info>  [1478792434.5548] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:10:34 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:10:34 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:10:34 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:10:34 pgadmin1
+5-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:10:34 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:10:34 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 370 seconds.
+Nov 10 21:16:44 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:16:44 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5126]   address 10.100.53.1
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5127]   plen 22 (255.255.252.0)
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5127]   gateway 10.100.52.1
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5127]   server identifier 10.20.1.3
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5128]   lease time
+ 900
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5128]   nameserver '10.20.1.22'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5129]   nameserver '10.20.1.21'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5129]   nameserver '10.3.0.101'
+Nov 10 21:16:44 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5129]   nameserver '4.2.2.2'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5130]   nameserver '8.8.8.8'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5130]   domain name 'nitk.ac.in'
+Nov 10 21:16:44 pgadmin15-desktop NetworkManager[729]: <info>  [1478792804.5131] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:16:44 pgadmin15-desktop systemd[1]: Starting Network Manager Script Disp
+atcher Service...
+Nov 10 21:16:44 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:16:44 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:16:44 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:16:44 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:16:44 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 371 seconds.
+Nov 10 21:17:01 pgadmin15-desktop CRON[4603]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Nov 10 21:22:20 pgadmin15-desktop systemd[1]: snapd.refresh.timer: Adding 5h 30min 8.786597s random time.
+Nov 10 21:22:55 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:22:55 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[
+729]: <info>  [1478793176.0042]   address 10.100.53.1
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0043]   plen 22 (255.255.252.0)
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0043]   gateway 10.100.52.1
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0044]   server identifier 10.20.1.3
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0044]   lease time 900
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0044]   nameserver '10.20.1.22'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0045]   nameserver '10.20.1.21'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0045]   nameserver '10.3.0.101'
+Nov 10 21:22:56 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <i
+nfo>  [1478793176.0045]   nameserver '4.2.2.2'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0045]   nameserver '8.8.8.8'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0046]   domain name 'nitk.ac.in'
+Nov 10 21:22:56 pgadmin15-desktop NetworkManager[729]: <info>  [1478793176.0046] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:22:56 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:22:56 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:22:56 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:22:56 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:22:56 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:22:56 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 423 seconds.
+Nov 10 
+21:29:59 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:29:59 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4159]   address 10.100.53.1
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4159]   plen 22 (255.255.252.0)
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4160]   gateway 10.100.52.1
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4160]   server identifier 10.20.1.3
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4161]   lease time 900
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4161]   nameserver '10.20.1.22'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4162]   nameserver '10.20.1.21'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4162] 
+  nameserver '10.3.0.101'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4162]   nameserver '4.2.2.2'
+Nov 10 21:29:59 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4163]   nameserver '8.8.8.8'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4163]   domain name 'nitk.ac.in'
+Nov 10 21:29:59 pgadmin15-desktop NetworkManager[729]: <info>  [1478793599.4164] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:29:59 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:29:59 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:29:59 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:29:59 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change
+' [enp0s25]: new request (1 scripts)
+Nov 10 21:29:59 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:29:59 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 363 seconds.
+Nov 10 21:36:02 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:36:02 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1789]   address 10.100.53.1
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1789]   plen 22 (255.255.252.0)
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1790]   gateway 10.100.52.1
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1790]   server identifier 10.20.1.3
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1790]   lease time 900
+Nov 10 21:36:02 pgadmin15-desktop Netwo
+rkManager[729]: <info>  [1478793962.1791]   nameserver '10.20.1.22'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1791]   nameserver '10.20.1.21'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1792]   nameserver '10.3.0.101'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1792]   nameserver '4.2.2.2'
+Nov 10 21:36:02 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1793]   nameserver '8.8.8.8'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1793]   domain name 'nitk.ac.in'
+Nov 10 21:36:02 pgadmin15-desktop NetworkManager[729]: <info>  [1478793962.1794] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:36:02 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:36:02 pgadmin15-
+desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:36:02 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:36:02 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:36:02 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:36:02 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 377 seconds.
+Nov 10 21:37:26 pgadmin15-desktop systemd[1]: Started Session 10 of user pgadmin15.
+Nov 10 21:42:19 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:42:21 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5823]   address 10.100.53.1
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5823]   plen 22 (255.255.252.0)
+Nov 10 21:4
+2:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5824]   gateway 10.100.52.1
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5824]   server identifier 10.20.1.3
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5824]   lease time 900
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5825]   nameserver '10.20.1.22'
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5825]   nameserver '10.20.1.21'
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5825]   nameserver '10.3.0.101'
+Nov 10 21:42:21 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5825]   nameserver '4.2.2.2'
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5826]   nameserver '8.8.8.8'
+Nov 10 21:42:21 pgadm
+in15-desktop NetworkManager[729]: <info>  [1478794341.5826]   domain name 'nitk.ac.in'
+Nov 10 21:42:21 pgadmin15-desktop NetworkManager[729]: <info>  [1478794341.5826] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:42:21 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:42:21 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:42:21 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:42:21 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:42:21 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:42:21 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 418 seconds.
+Nov 10 21:42:59 pgadmin15-desktop systemd[1]: Started Session 11 of user pgadmin15.
+Nov 10 21:49:19 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.2
+0.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:49:19 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9259]   address 10.100.53.1
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9259]   plen 22 (255.255.252.0)
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9260]   gateway 10.100.52.1
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9260]   server identifier 10.20.1.3
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9260]   lease time 900
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9260]   nameserver '10.20.1.22'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9261]   nameserver '10.20.1.21'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9261]   nameserver '10.3.0.101'
+Nov 10 21:49:19 pgadmin15-desktop dbus[675]: [system] Activati
+ng via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9261]   nameserver '4.2.2.2'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9261]   nameserver '8.8.8.8'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9261]   domain name 'nitk.ac.in'
+Nov 10 21:49:19 pgadmin15-desktop NetworkManager[729]: <info>  [1478794759.9262] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:49:19 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:49:19 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov 10 21:49:19 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:49:19 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:49:19 pgadmin15-desktop nm-dispatcher: re
+q:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:49:19 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 430 seconds.
+Nov 10 21:56:29 pgadmin15-desktop dhclient[1861]: DHCPREQUEST of 10.100.53.1 on enp0s25 to 10.20.1.3 port 67 (xid=0x180b9e76)
+Nov 10 21:56:29 pgadmin15-desktop dhclient[1861]: DHCPACK of 10.100.53.1 from 10.20.1.3
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7375]   address 10.100.53.1
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7375]   plen 22 (255.255.252.0)
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7376]   gateway 10.100.52.1
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7376]   server identifier 10.20.1.3
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7377]   lease time 900
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7377]   nameserver '10.20.1.22'
+Nov 10 21:56:29 pgad
+min15-desktop NetworkManager[729]: <info>  [1478795189.7378]   nameserver '10.20.1.21'
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7378]   nameserver '10.3.0.101'
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7378]   nameserver '4.2.2.2'
+Nov 10 21:56:29 pgadmin15-desktop dbus[675]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7379]   nameserver '8.8.8.8'
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7379]   domain name 'nitk.ac.in'
+Nov 10 21:56:29 pgadmin15-desktop NetworkManager[729]: <info>  [1478795189.7380] dhcp4 (enp0s25): state changed bound -> bound
+Nov 10 21:56:29 pgadmin15-desktop systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 21:56:29 pgadmin15-desktop dbus[675]: [system] Successfully activated service 'org.freedesktop.nm_dispatche
+r'
+Nov 10 21:56:29 pgadmin15-desktop systemd[1]: Started Network Manager Script Dispatcher Service.
+Nov 10 21:56:29 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: new request (1 scripts)
+Nov 10 21:56:29 pgadmin15-desktop nm-dispatcher: req:1 'dhcp4-change' [enp0s25]: start running ordered scripts...
+Nov 10 21:56:29 pgadmin15-desktop dhclient[1861]: bound to 10.100.53.1 -- renewal in 431 seconds.
+Nov 10 22:00:40 pgadmin15-desktop systemd[1]: Started Session 12 of user pgadmin15.
+
